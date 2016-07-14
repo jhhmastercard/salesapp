@@ -1,0 +1,29 @@
+{
+    "productTypes": "Graphics cards",
+    "products": [
+                 {
+                 "productName": "Nvidia GTX 1080",
+                 "price": 599.99,
+                 "description": "Flagship graphics card of the Nvidia brand",
+                 "image": "http://www.thecountrycaller.com/public/images/uploads/1462816364-12850-Nvidia-The-Geforce-GTX-1080-Graphics-Card-Can-Do-Asynchronous-Compute.jpg"
+                 },
+                 {
+                 "productName": "AMD RX 480",
+                 "price": 299.99,
+                 "description": "Flagship graphics card of the AMD brand",
+                 "image": "http://www.roadtovr.com/wp-content/uploads/2016/05/amd-rx-480-polaris-4.jpg"
+                 },
+                 {
+                 "productName": "Nvidia GTX 980",
+                 "price": 399.99,
+                 "description": "Top Nvidia 900 generation graphics card",
+                 "image": "http://media.bestofmicro.com/V/D/454729/gallery/GTX-980-View-ISO_w_600.jpg"
+                 },
+                 {
+                 "productName": "AMD R9 Fury",
+                 "price": 249.99,
+                 "description": "Top of the AMD Fury series",
+                 "image": "http://cdn.videocardz.com/1/2015/06/AMD-R9-Fury-X.jpg"
+                 }
+                ]
+}
