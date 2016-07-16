@@ -1,29 +1,29 @@
 {
-    "productTypes": "Graphics cards",
-    "products": [
-                 {
-                 "productName": "Nvidia GTX 1080",
-                 "price": 459.99,
-                 "description": "Flagship graphics card of the Nvidia brand",
-                 "image": "http://www.thecountrycaller.com/public/images/uploads/1462816364-12850-Nvidia-The-Geforce-GTX-1080-Graphics-Card-Can-Do-Asynchronous-Compute.jpg"
-                 },
-                 {
-                 "productName": "AMD RX 480",
-                 "price": 199.99,
-                 "description": "Flagship graphics card of the AMD brand",
-                 "image": "http://www.roadtovr.com/wp-content/uploads/2016/05/amd-rx-480-polaris-4.jpg"
-                 },
-                 {
-                 "productName": "Nvidia GTX 980",
-                 "price": 299.99,
-                 "description": "Top Nvidia 900 generation graphics card",
-                 "image": "http://media.bestofmicro.com/V/D/454729/gallery/GTX-980-View-ISO_w_600.jpg"
-                 },
-                 {
-                 "productName": "AMD R9 Fury",
-                 "price": 149.99,
-                 "description": "Top of the AMD Fury series",
-                 "image": "http://cdn.videocardz.com/1/2015/06/AMD-R9-Fury-X.jpg"
-                 }
-                ]
+"productTypes": "Clothing",
+"products": [
+        {
+          "productName": "Ray-Ban Clubmasters",
+          "price": 129.99,
+          "description": "Sunglasses",
+          "image": "http://www.fashables.com/wp-content/uploads/2012/05/Ray-Ban-Club-Master-Fashables.jpg"
+        },
+        {
+          "productName": "Supra Skytops",
+          "price": 99.99,
+          "description": "Shoes",
+          "image": "http://s3-us-west-2.amazonaws.com/hypebeast-wordpress/wp-content/blogs.dir/4/files/2013/05/supra-skytop-drummond-0.jpg"
+        },
+        {
+          "productName": "Emporio Armani Exchange Watch",
+          "price": 299.99,
+          "description": "Watch",
+          "image": "https://images-na.ssl-images-amazon.com/images/I/71DIQO52GmL._UL1500_.jpg"
+        },
+        {
+          "productName": "Generic Clothing #4",
+          "price": 24.99,
+          "description": "T-Shirt",
+          "image": "https://cdn.qwertee.com/images/models/mens-overlay.png"
+        }
+        ]
 }
