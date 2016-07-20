@@ -2,7 +2,7 @@
 "productTypes": "Clothing",
 "products": [
         {
-          "productName":"Ray-Ban Clubmasters",
+          "productName": "Ray-Ban Clubmasters",
           "price": 129.99,
           "description": "Sunglasses",
           "image": "http://www.fashables.com/wp-content/uploads/2012/05/Ray-Ban-Club-Master-Fashables.jpg"
