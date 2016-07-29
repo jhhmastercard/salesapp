@@ -2,7 +2,7 @@
 "magic_responses":[
     {
         "cardNum": "4444333322221111",
-        "label": "SERVER_ERROR"
+	"label": "SERVER_ERROR"
     },
     {
         "cardNum": "4444333322220000",
