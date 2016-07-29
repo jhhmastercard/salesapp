@@ -1,1 +1,11 @@
-{ "magic_responses":[ { "cardNum": "4444333322221111", 	"label": "SERVER_ERROR" }, { "cardNum": "4444333322220000", "label": "SERVER_ERROR" }, { "cardNum": "4444333322220001", "label": "NO_SESSION" }, { "cardNum": "4444333322220002", "label": "REQUEST_REJECTED" }, { "cardNum": "4444333322220003", "label": "SERVER_FAILURE" }, { "cardNum": "4444333322220004", "label": "MISSING" }, { "cardNum": "4444333322220005", "label": "UNSUPPORTED" } ] }
+{ "magic_responses":
+  [ 
+    { "cardNum": "4444333322221111", 	"label": "SERVER_ERROR" },
+    { "cardNum": "4444333322220000", "label": "SERVER_ERROR" },
+    { "cardNum": "4444333322220001", "label": "NO_SESSION" },
+    { "cardNum": "4444333322220002", "label": "REQUEST_REJECTED" },
+    { "cardNum": "4444333322220003", "label": "SERVER_FAILURE" },
+    { "cardNum": "4444333322220004", "label": "MISSING" },
+    { "cardNum": "4444333322220005", "label": "UNSUPPORTED" } 
+  ] 
+}
